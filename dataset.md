@@ -9,4 +9,7 @@
 ## About the paper - 
 - Human society needs to increase food production by an estimated 70% by 2050 to feed an expected population size that is predicted to be over 9 billion people.
 - Currently, infectious diseases reduce the potential yield by an average of 40% with many farmers in the developing world experiencing yield losses as high as 100%. 
-- However, the fact that the global food supply is annually reduced by an average of 40% (Oerke 2006) demonstrates that our collective battle against diseases and pests of crop plants is not won. 
+- However, the fact that the global food supply is annually reduced by an average of 40% (Oerke 2006) demonstrates that our collective battle against diseases and pests of crop plants is not won.
+
+## Note - 
+The original dataset is not available from the original source (plantvillage.org), therefore we get the unaugmented dataset from a paper that used that dataset and republished it. Moreover, we dropped images with Background_without_leaves label, because these were not present in the original dataset.
